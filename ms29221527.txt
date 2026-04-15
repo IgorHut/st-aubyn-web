@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "staubyn64.org",
+  "Id": "0711d962-2caa-4a88-b6e1-27d3d86c0c6e"
+}
